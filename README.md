@@ -12,6 +12,9 @@
 </p>
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SerVoskanyan/SerVoskanyan/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 <div align="center">
 
@@ -135,7 +138,7 @@
         <b>Multi-Channel Integrations</b><br>
         <font size="2">Сбор лидов из JivoSite, Дзена и HTML-форм в Telegram. Полный no-code цикл обработки входящих заявок.</font>
       </div>
-      <a href="https://github.com/SerVoskanyan">
+      <a href="#">
         <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
@@ -208,11 +211,6 @@
 ---
 
 ### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerVoskanyan&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=3b82f6" width="49%" />
-  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=SerVoskanyan&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=3b82f6" width="49%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerVoskanyan&theme=tokyonight&hide_border=true&ring=3b82f6&fire=3b82f6" width="98%" />
