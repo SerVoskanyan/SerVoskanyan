@@ -208,13 +208,6 @@
 *   📱 **iOS Developer** — Academy Certificate (Swift).
 *   ⚙️ **1С:Профессионал** — Инженерная база разработки.
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerVoskanyan&theme=tokyonight&hide_border=true&ring=3b82f6&fire=3b82f6" width="98%" />
-</div>
 
 ---
 
