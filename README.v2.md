@@ -22,7 +22,7 @@
 
 ### 🛠 Stack & Focus
 
-> **1С → Marketing → PM → AI Architect** — строю автономные системы: **API → PostgreSQL → BI**
+> **1С → Marketing → PM → AI Architect** — строю автономные системы: **Playwright → Python/LLM → PostgreSQL → Admin & TG Bot**
 
 <p align="center">
   <img src="https://img.shields.io/badge/1C_Dev-334155?style=flat-square" />
@@ -37,6 +37,12 @@
 ---
 
 ### 💎 Top Cases
+
+<img src="https://img.shields.io/badge/🎯_Job_Hunter_AI_Platform-Private-6366f1?style=for-the-badge&logo=python&logoColor=white" />
+
+```
+Playwright • Python • LLM • PostgreSQL  →  парсинг, AI-скоринг, cover letter, автоотклики
+```
 
 <a href="https://github.com/SerVoskanyan/AutoShedevrum-OpenSource">
   <img src="https://img.shields.io/badge/🤖_AutoShedevrum-AI_Blogger_24/7-3b82f6?style=for-the-badge&logo=telegram&logoColor=white" />
