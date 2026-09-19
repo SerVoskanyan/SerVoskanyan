@@ -76,7 +76,7 @@ n8n • Apify • Sheets  →  авто-выгрузка вакансий с ф�
 [![Email](https://img.shields.io/badge/Email-ser@voskanjan.ru-EA4335?style=for-the-badge&logo=gmail)](mailto:ser@voskanjan.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-SerVoskanyan-181717?style=for-the-badge&logo=github)](https://github.com/SerVoskanyan)
 
-*Yandex Direct PRO • Google Expert • 1С Prof • МГУПП*
+*Yandex Direct PRO • Google Expert • 1С Prof • МГУПП (Кибернетика) • МГТУ им. Баумана • МАИ*
 
 ---
 
