@@ -52,7 +52,7 @@ Playwright • Python • LLM • PostgreSQL  →  парсинг, AI-скори
 Python • PocketBase • Gemini • Docker  →  автопостинг + TG-бот
 ```
 
-<a href="https://github.com/SerVoskanyan/My-cases/tree/main/Auto_SEO-Audit_Agent">
+<a href="https://github.com/SerVoskanyan/Auto-SEO-Audit-Agent">
   <img src="https://img.shields.io/badge/🔍_SEO_Audit_Agent-GSC_→_Sheets-22c55e?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
@@ -60,7 +60,7 @@ Python • PocketBase • Gemini • Docker  →  автопостинг + TG-б
 n8n • OpenAI • GSC API  →  ИИ находит проблемы и пишет рекомендации
 ```
 
-<a href="https://github.com/SerVoskanyan/My-cases/tree/main/linkedin-jobs-monitor">
+<a href="https://github.com/SerVoskanyan/linkedin-jobs-monitor">
   <img src="https://img.shields.io/badge/💼_LinkedIn_Monitor-Jobs_→_Sheets-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
